@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @priti163
+- 👋 Hi, I’m Priti Singh
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning and inhansing my coding skills
-- 💞️ I’m looking to join IT  organisation
+- 🌱 I’m currently learning and enhancing my coding skills
+- 💞️ I’m looking to join an IT  Organisation
 - 📫 My email id is official360priti@gmail.com
 
 <!---
