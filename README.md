@@ -35,9 +35,9 @@ teams, or applications from I different.\
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/amitkrg124">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amitkrg124&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amitkrg124&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/priti163">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=priti163&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=priti163&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 ### 🤝🏻 &nbsp;Connect with Me
