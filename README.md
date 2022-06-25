@@ -13,7 +13,7 @@ teams, or applications from I different.\
 ✍️ &nbsp;My passion lies in solving business problems with my strong Data Structures and Agorithms.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at official360priti@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](#) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé]("https://priti163.github.io/My_portfolio/") for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://github.com/priti163/priti163/blob/master/assets/Night-Coding.gif" align="right"/>
 
@@ -43,7 +43,7 @@ teams, or applications from I different.\
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/-priti_singh-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://priti163.github.io/My_portfolio/"><img src="https://img.shields.io/badge/-priti_singh-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/priti-singh360/"><img src="https://img.shields.io/badge/-Priti%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="official360priti@gmail.com"><img src="https://img.shields.io/badge/-official360priti@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
