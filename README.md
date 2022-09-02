@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I am pursuing my MTech in Computer Science from the Netaji Subash University of Technology, New Delhi.\
+🎓 &nbsp;I am pursuing my Engineering in Computer Science from the Netaji Subash University of Technology, New Delhi.\
 🌱 &nbsp;I am an aspiring front-end developer as well as a back-end developer who enjoys \
 💡 &nbsp;connecting the dots, be it ideas from different disciplines, people from different
 teams, or applications from I different.\
